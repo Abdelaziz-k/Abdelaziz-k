@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Abdelaziz-k
+- 👋 Hi, I’m @Abdelaziz Khalid
 - 👀 I’m interested in Magento2
 - 🌱 I’m currently learning Magento2
